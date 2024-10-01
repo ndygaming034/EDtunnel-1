@@ -1,4 +1,4 @@
-name = "cf-worker-ws-dev" # todo
+name = "lizard" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -9,5 +9,5 @@ workers_dev = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
-PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+PROXYIP = "172.232.238.169"
+UUID = "6bce0798-8c4c-4c50-a9d2-89b894293695"
